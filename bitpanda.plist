@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>bitpanda-app</string>
           <key>url</key>
-          <string>https://bitpanda-app-apk.cqzyy.cloud/bitpanda.ipa</string>
+          <string>https://raw.githubusercontent.com/kukubaJS/bitpanda/main/bitpanda.ipa</string>
         </dict>
         <dict>
           <key>kind</key>
